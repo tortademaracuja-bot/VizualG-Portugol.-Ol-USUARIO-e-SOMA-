@@ -1,2 +1,18 @@
 # VizualG-Portugol.-Ol-USUARIO-e-SOMA-
-A simple learning code in vizualg in Portuguese where the program asks the user's name, age and a random number, thus delivering a welcome phrase and the sum of the age with the random number.
+# Meu primeiro código em VisualG
+
+Este é um pequeno programa feito em Portugol (VisualG) que:
+
+- Pergunta o nome do usuário
+- Pergunta a idade
+- Pede um número aleatório
+- Soma a idade com esse número e mostra o resultado
+
+Foi feito como parte do meu aprendizado em lógica de programação. 
+
+## Como usar
+
+1. Abra o VisualG
+2. Copie o código do arquivo 
+3. Execute e interaja com o programa!
+

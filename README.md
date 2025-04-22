@@ -1,5 +1,5 @@
 # VizualG-Portugol.-Ol-USUARIO-e-SOMA-
-# Meu primeiro código em VisualG
+# Meu segundo código em VisualG
 
 Este é um pequeno programa feito em Portugol (VisualG) que:
 
